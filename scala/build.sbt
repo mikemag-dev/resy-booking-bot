@@ -1,6 +1,6 @@
 name := "resy-booking-bot"
 
-scalaVersion := "2.13.8"
+scalaVersion := "2.13.13"
 
 ThisBuild / scalafixDependencies ++= Seq(
   "com.github.vovapolu" %% "scaluzzi"         % "0.1.23",
